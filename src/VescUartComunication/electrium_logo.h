@@ -1,3 +1,4 @@
+#pragma once
 #define ELECTRIUM_LOGO_HEIGHT 30
 #define ELECTRIUM_LOGO_WIDTH 238
 

@@ -1,3 +1,4 @@
+#pragma once
 #define BATTERY_HEIGHT 24
 #define BATTERY_WIDTH 24
 
